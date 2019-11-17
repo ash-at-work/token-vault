@@ -1,8 +1,8 @@
 {
-  "identifier": "org.yourdomain.my-extension",
+  "identifier": "Tokenz",
   "name": "Token Safe",
   "content_type": "SN|Component",
   "area": "editor-editor",
   "version": "1.0.0",
-  "url": "http://localhost:8080/"
+  "url": "https://github.com/ash-at-work/token-vault/edit/master/ext.json"
 }
