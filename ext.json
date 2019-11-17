@@ -1,8 +1,12 @@
 {
-  "identifier": "Tokenz",
+  "identifier": "Tokens",
   "name": "Token Safe",
   "content_type": "SN|Component",
   "area": "editor-editor",
   "version": "1.0.0",
-  "url": "https://github.com/ash-at-work/token-vault/edit/master/ext.json"
+  "url": "https://cdn.statically.io/gh/sn-extensions/token-vault/1.0.5/dist/index.html"
+	"download_url": "  https://github.com/sn-extensions/token-vault/archive/master.zip",
+	"latest_url": "https://cdn.statically.io/gh/sn-extensions/token-vault/1.0.5/dist/index.html",
+	"marketing_url": "https://standardnotes.org/extensions/advanced-markdown",
+	"thumbnail_url": "https://standard-notes.s3.amazonaws.com/screenshots/models/editors/token-vault.png"
 }
